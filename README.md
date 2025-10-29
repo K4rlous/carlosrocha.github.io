@@ -23,7 +23,12 @@ I am passionate about coding, learning new technologies, and building real appli
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
-Scrum, PMI, PMBOK, XP, TDD, FDD  
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=trello&logoColor=white)  
+![PMI](https://img.shields.io/badge/PMI-002855?style=for-the-badge&logo=project-management&logoColor=white)  
+![PMBOK](https://img.shields.io/badge/PMBOK-005A9C?style=for-the-badge&logo=bookstack&logoColor=white)  
+![XP](https://img.shields.io/badge/Extreme%20Programming-6DB33F?style=for-the-badge&logo=codeforces&logoColor=white)  
+![TDD](https://img.shields.io/badge/TDD-FF9900?style=for-the-badge&logo=testcafe&logoColor=white)  
+![FDD](https://img.shields.io/badge/FDD-9C27B0?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
