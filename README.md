@@ -22,6 +22,7 @@ I am passionate about coding, learning new technologies, and building real appli
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=trello&logoColor=white)  
 ![PMI](https://img.shields.io/badge/PMI-002855?style=for-the-badge&logo=project-management&logoColor=white)  
