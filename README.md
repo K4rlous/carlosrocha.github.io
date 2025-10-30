@@ -44,8 +44,12 @@ I am passionate about coding, learning new technologies, and building real appli
 
 ---
 
-## Projects 🚀
+## Projects
 
-> Personal projects are currently in progress. I am actively learning and building applications with Java, JavaFX, Spring Boot, and SQLite.  
-> Check back soon for completed projects!  
-> [GitHub Repositories](https://github.com/K4rlous?tab=repositories)
+### 🍔 BMI Calculator (JavaFX) – 2025
+A desktop application to calculate the **Body Mass Index (BMI)** with a graphical user interface.  
+- **Technologies:** Java, JavaFX  
+- **Features:** Input fields for weight and height, automatic BMI calculation, classification according to the [World Health Organization (WHO)](https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight#BMI), error handling for invalid inputs, and a clickable link to the official WHO BMI table.  
+- **Repository:** [https://github.com/K4rlous/Java-Projects/tree/main/BMICalculator](https://github.com/K4rlous/Java-Projects/tree/main/BMICalculator)
+
+---
