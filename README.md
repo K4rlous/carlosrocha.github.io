@@ -30,21 +30,24 @@ I am passionate about coding, learning new technologies, and building real appli
 ![Hibernate](https://img.shields.io/badge/Hibernate-593d91?style=for-the-badge)  
 ---
 ## Projects
+
+### 📂 [View All My Projects](https://github.com/K4rlous/Java-Projects)
+Explore my complete collection of Java projects, including native applications and frameworks like Spring.
+
+---
+
 ### 🍔 BMI Calculator (JavaFX) – 2025
 A desktop application to calculate the **Body Mass Index (BMI)** with a graphical user interface.  
 - **Technologies:** Java, JavaFX  
 - **Features:** Input fields for weight and height, automatic BMI calculation, classification according to the [World Health Organization (WHO)](https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight#BMI), error handling for invalid inputs, and a clickable link to the official WHO BMI table.  
 - **Repository:** [https://github.com/K4rlous/Java-Projects/tree/main/BMICalculator](https://github.com/K4rlous/Java-Projects/tree/main/BMICalculator)
 
+---
+
 ### ⌚ Digital Watch (JavaFX) – 2025
 A simple digital clock application with real-time display.  
 - **Technologies:** Java, JavaFX  
 - **Features:** Real-time clock display in 24-hour format (HH:mm:ss), automatic updates every second using JavaFX Timeline animation, minimalist black and yellow interface, and lightweight desktop application.  
 - **Repository:** [https://github.com/K4rlous/Java-Projects/tree/main/DigitalWatch](https://github.com/K4rlous/Java-Projects/tree/main/DigitalWatch)
-
----
-
-### 📂 [View All My Projects](https://github.com/K4rlous/Java-Projects)
-Explore my complete collection of Java projects, including native applications and frameworks like Spring.
 
 ---
