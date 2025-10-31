@@ -8,6 +8,7 @@ I am passionate about coding, learning new technologies, and building real appli
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+
 ---
 ## Skills & Tools 🛠️
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -29,6 +30,7 @@ I am passionate about coding, learning new technologies, and building real appli
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge)  
 ![JDBC](https://img.shields.io/badge/JDBC-Blue?style=for-the-badge)  
 ![Hibernate](https://img.shields.io/badge/Hibernate-593d91?style=for-the-badge)  
+
 ---
 ## Projects
 
