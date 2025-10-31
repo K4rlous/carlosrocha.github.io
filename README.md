@@ -21,6 +21,7 @@ I am passionate about coding, learning new technologies, and building real appli
 ![XP](https://img.shields.io/badge/Extreme%20Programming-6DB33F?style=for-the-badge&logo=codeforces&logoColor=white)  
 ![TDD](https://img.shields.io/badge/TDD-FF9900?style=for-the-badge&logo=testcafe&logoColor=white)  
 ![FDD](https://img.shields.io/badge/FDD-9C27B0?style=for-the-badge&logo=githubactions&logoColor=white)
+
 ---
 ## Frameworks & Libraries 📚
 ![Spring Boot](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)  
