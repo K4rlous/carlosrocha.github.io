@@ -1,6 +1,6 @@
 # Hi, I'm Carlos 👋🏻  
 👨🏻‍🎓 Undergraduate student in **Systems Analysis and Development** at **[Gran Faculdade](https://faculdade.grancursosonline.com.br)**  
-I am passionate about coding, learning new technologies, and building real applications.  
+I am passionate about coding, learning new technologies, and building real applications, currently focused on learning more about Java, Spring Boot, MySQL, and Docker, but I also have basic knowledge of Python, HTML5, CSS3, JavaScript, and React.  
 
 ---
 ## Languages 📝
@@ -33,6 +33,13 @@ I am passionate about coding, learning new technologies, and building real appli
 ![Hibernate](https://img.shields.io/badge/Hibernate-593d91?style=for-the-badge)  
 
 ---
+
+## Connect with me 📨  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-rocha17/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/K4rlous)  
+
+---
+
 ## Projects
 
 ### 📂 [View All My Projects](https://github.com/K4rlous/Java-Projects)
