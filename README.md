@@ -47,6 +47,30 @@ Explore my complete collection of Java projects, including native applications a
 
 ---
 
+### 🌐 Mini Web Browser (JavaFX) – 2025
+A lightweight web browser with essential navigation features.
+- **Technologies:** Java, JavaFX, WebView
+- **Features:** URL navigation with automatic HTTP/HTTPS handling, back/forward navigation buttons, page reload functionality, real-time URL field updates, and Google homepage on startup.
+- **Repository:** [https://github.com/K4rlous/Java-Projects/tree/main/MiniWebBrowser](https://github.com/K4rlous/Java-Projects/tree/main/MiniWebBrowser)
+
+---
+
+### 🔒 Safe Password Generator (JavaFX) – 2025
+A secure password generator using cryptographically strong random number generation.
+- **Technologies:** Java, JavaFX, SecureRandom
+- **Features:** Cryptographically secure password generation, customizable password length (default: 16 characters), includes uppercase, lowercase, numbers and special characters, both GUI and CLI versions available, and input validation.
+- **Repository:** [https://github.com/K4rlous/Java-Projects/tree/main/SafePasswordGenerator](https://github.com/K4rlous/Java-Projects/tree/main/SafePasswordGenerator)
+
+---
+
+### 📝 Mini Text Editor (JavaFX) – 2025
+A simple text editor for opening, editing, and saving `.txt` files.
+- **Technologies:** Java, JavaFX
+- **Features:** Open and read `.txt` files, edit text content in a large text area, save files with automatic `.txt` extension, simple toolbar with Open and Save buttons, and clean minimalist interface.
+- **Repository:** [https://github.com/K4rlous/Java-Projects/tree/main/MiniTextEditor](https://github.com/K4rlous/Java-Projects/tree/main/MiniTextEditor)
+
+---
+
 ### 🍔 BMI Calculator (JavaFX) – 2025
 A desktop application to calculate the **Body Mass Index (BMI)** with a graphical user interface.  
 - **Technologies:** Java, JavaFX  
@@ -60,5 +84,13 @@ A simple digital clock application with real-time display.
 - **Technologies:** Java, JavaFX  
 - **Features:** Real-time clock display in 24-hour format (HH:mm:ss), automatic updates every second using JavaFX Timeline animation, minimalist black and yellow interface, and lightweight desktop application.  
 - **Repository:** [https://github.com/K4rlous/Java-Projects/tree/main/DigitalWatch](https://github.com/K4rlous/Java-Projects/tree/main/DigitalWatch)
+
+---
+
+### 🎮 Hangman Game (Java) – 2025
+A classic word-guessing game in the command line.
+- **Technologies:** Java
+- **Features:** Random word selection from 17 predefined words, 6 attempts to guess the word, input validation (single letters only), prevents duplicate guesses, and interactive command-line interface.
+- **Repository:** [https://github.com/K4rlous/Java-Projects/tree/main/HangmanGame](https://github.com/K4rlous/Java-Projects/tree/main/HangmanGame)
 
 ---
