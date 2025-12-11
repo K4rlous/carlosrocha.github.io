@@ -61,26 +61,26 @@ A real-time weather information system using the WeatherAPI.
 
 ---
 
+### 📦 JDBC Stock System (JavaFX + SQLite) – 2025
+A product inventory management system with complete CRUD operations.
+- **Technologies:** Java, JavaFX, JDBC, SQLite
+- **Features:** Complete CRUD operations, interactive TableView with automatic refresh, DAO pattern implementation, status management, price input with comma/period support, custom CSS styling, and automatic database connection management.
+- **Repository:** [https://github.com/K4rlous/Java-Projects/tree/main/JDBCStockSystem](https://github.com/K4rlous/Java-Projects/tree/main/JDBCStockSystem)
+
+---
+
+### 🐬 JDBC MySQL Test (Java + MySQL) – 2025
+A product management system demonstrating MySQL integration with JDBC.
+- **Technologies:** Java, JDBC, MySQL
+- **Features:** Complete CRUD operations with MySQL server, DAO pattern implementation, PreparedStatement for SQL injection prevention, error handling and connection management, and command-line interface for testing.
+- **Repository:** [https://github.com/K4rlous/Java-Projects/tree/main/JDBCMySQLTest](https://github.com/K4rlous/Java-Projects/tree/main/JDBCMySQLTest)
+
+---
+
 ### 🛒 Shopping List (JavaFX) – 2025
 A shopping list manager with automatic data persistence.
 - **Technologies:** Java, JavaFX, File I/O
 - **Features:** Add and remove items, export list to text file, automatic save and load functionality, data persistence between sessions, input validation with alerts, confirmation dialogs, and intuitive interface.
 - **Repository:** [https://github.com/K4rlous/Java-Projects/tree/main/ShoppingList](https://github.com/K4rlous/Java-Projects/tree/main/ShoppingList)
-
----
-
-### 🌐 Mini Web Browser (JavaFX) – 2025
-A lightweight web browser with essential navigation features.
-- **Technologies:** Java, JavaFX, WebView
-- **Features:** URL navigation with automatic HTTP/HTTPS handling, back/forward navigation buttons, page reload functionality, real-time URL field updates, and Google homepage on startup.
-- **Repository:** [https://github.com/K4rlous/Java-Projects/tree/main/MiniWebBrowser](https://github.com/K4rlous/Java-Projects/tree/main/MiniWebBrowser)
-
----
-
-### 🔒 Safe Password Generator (JavaFX) – 2025
-A secure password generator using cryptographically strong random number generation.
-- **Technologies:** Java, JavaFX, SecureRandom
-- **Features:** Cryptographically secure password generation, customizable password length (default: 16 characters), includes uppercase, lowercase, numbers and special characters, both GUI and CLI versions available, and input validation.
-- **Repository:** [https://github.com/K4rlous/Java-Projects/tree/main/SafePasswordGenerator](https://github.com/K4rlous/Java-Projects/tree/main/SafePasswordGenerator)
 
 ---
