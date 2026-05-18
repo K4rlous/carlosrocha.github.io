@@ -1,5 +1,5 @@
 # Hi, I'm Carlos 👋🏻  
-👨🏻‍🎓 Undergraduate student in **Systems Analysis and Development** at **[Gran Faculdade](https://faculdade.grancursosonline.com.br)**  
+👨🏻‍🎓 **Systems Analysis and Development Graduate | Postgrad Student in Full Stack Development and Cloud Computing & Information Security** at **[Gran Faculdade](https://faculdade.grancursosonline.com.br)**  
 I am passionate about coding, learning new technologies, and building real applications, currently focused on learning more about Java, Spring Boot, MySQL, and Docker, but I also have basic knowledge of Python, HTML5, CSS3, JavaScript, and React.  
 
 ---
