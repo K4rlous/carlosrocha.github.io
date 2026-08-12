@@ -49,7 +49,7 @@ I am passionate about coding, learning new technologies, and building real appli
 ## Featured Projects
 
 ### 📂 [View All My Projects](https://github.com/K4rlous/Java-Projects)
-Explore my complete collection of Java projects, including native applications and frameworks like Spring.
+Explore my complete collection of projects, including native applications and frameworks like Spring.
 
 ---
 
